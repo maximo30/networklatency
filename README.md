@@ -7,4 +7,4 @@ to create a CVS file with the ping data.
 ![Ping](https://user-images.githubusercontent.com/62764972/95514007-3c31d380-0989-11eb-8ae3-6cd121507762.png)
 
 #### Contribute
-Feel free to contribute or add/edit/re-use.
+No license, just feel free to contribute: add/edit/copy/re-use/distribute/play.
