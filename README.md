@@ -5,6 +5,3 @@ your own data as much as I do, you may like to check your ping requests just for
 to create a CVS file with the ping data.
 
 ![Ping](https://user-images.githubusercontent.com/62764972/95514007-3c31d380-0989-11eb-8ae3-6cd121507762.png)
-
-#### Contribute
-No license, just feel free to contribute: add/edit/copy/re-use/distribute/play.
